@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+}
+
+.navbar {
+    height: 5rem;
+    background-color: #ffffff;
+}
+
+.nav-link {
+    color: #222222 !important;
+    font-weight: 400 !important;
+}
+
+.fa-compass {
+    color: #fe424d;
+    font-size: 1.5rem;
+}
