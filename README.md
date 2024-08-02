@@ -42,4 +42,4 @@ To get a local copy of the project up and running, follow these steps:
 
    ```bash
    git clone https://https://github.com/Skumar1690/Project-Wander-lust.git
-   cd wanderlust
+
