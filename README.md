@@ -36,3 +36,10 @@ To get a local copy of the project up and running, follow these steps:
 - MongoDB installed and running.
 - A Cloudinary account for image management.
 - A Mapbox account for location services.
+### Steps
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://https://github.com/Skumar1690/Project-Wander-lust.git
+   cd wanderlust
